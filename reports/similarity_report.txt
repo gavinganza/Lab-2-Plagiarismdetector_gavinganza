@@ -1,0 +1,7 @@
+COMMON WORDS FOUND:
+anchor
+crystal
+horizon
+lantern
+meadow
+pulse
